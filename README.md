@@ -1,2 +1,1 @@
-# commodity-content-types
-Commodity vs. Non-Commodity Content Types
+# Commodity vs. Non-Commodity Content Types
